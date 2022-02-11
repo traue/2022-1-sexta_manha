@@ -36,7 +36,7 @@ Lembre-se que com seu e-mail institucional você pode acessar os catálogos disp
  - [Artificial Intelligence with Python](https://learning.oreilly.com/library/view/artificial-intelligence-with/9781839219535/), 2ª ed, Artasanchez, A., Joshi, P.
  - [Artificial Intelligence with Python Cookbook](https://learning.oreilly.com/library/view/artificial-intelligence-with/9781789133967/), Auffarth, B.
  - [Inteligência artificial - IA](https://plataforma.bvirtual.com.br/Acervo/Publicacao/191624), Valdati, A. B.
- - (Practical Explainable AI Using Python: Artificial Intelligence Model Explanations Using Python-based Libraries, Extensions, and Frameworks)[https://learning.oreilly.com/library/view/practical-explainable-ai/9781484271582/], P. Mishra
+ - [Practical Explainable AI Using Python: Artificial Intelligence Model Explanations Using Python-based Libraries, Extensions, and Frameworks](https://learning.oreilly.com/library/view/practical-explainable-ai/9781484271582/), P. Mishra
  - [A Programmer's Guide to Artificial Intelligence](https://learning.oreilly.com/playlists/496f14b2-4028-47dd-84dd-6313b5f158c7/)
  - [Artificial Intelligence Basics: A Non-Technical Introduction](https://learning.oreilly.com/library/view/artificial-intelligence-basics/9781484250280/), Taulli, T.
  - [Artificial Intelligence For Dummies](https://learning.oreilly.com/library/view/artificial-intelligence-for/9781119796763/), 2ª ed., Mueller, J. P., Massaron, L.
