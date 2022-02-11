@@ -50,5 +50,5 @@ Seguem abaixo alguns links e legais (recomendados pelo Prof. e por discentes):
 
  - Quem tiver a oportunidade de jogar: 
 Detroit: Become Human (dica do Lucas) - [Gameplay](https://www.youtube.com/watch?v=LyBYdYnaX0c)
- - Quem tiver a oportunidade de jogar: Portal 1
+ - Quem tiver a oportunidade de jogar: Portal 1 (dica do Kevin)
 
