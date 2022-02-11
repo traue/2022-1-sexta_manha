@@ -31,17 +31,16 @@ Seguem alguns livros muito importantes para a disciplina
 Lembre-se que com seu e-mail institucional você pode acessar os catálogos disponíveis em sua central do aluno (os livros estão com links diretos para o catálogo).
 
 
- - (Inteligência artificial)(https://plataforma.bvirtual.com.br/Acervo/Publicacao/180430), 6ª ed., Luger, G. F.  
- - (Inteligência artificial aplicada: uma abordagem introdutória)[https://plataforma.bvirtual.com.br/Acervo/Publicacao/161682], Medeiros, L. F.
- - (Artificial Intelligence with Python)[https://learning.oreilly.com/library/view/artificial-intelligence-with/9781839219535/], 2ª ed., Artasanchez, A., Joshi, P.
- - (Artificial Intelligence with Python Cookbook)[https://learning.oreilly.com/library/view/artificial-intelligence-with/9781789133967/], Auffarth, B.
- - (Inteligência artificial - IA)[https://plataforma.bvirtual.com.br/Acervo/Publicacao/191624], Valdati, A. B.
+ - [Inteligência artificial](https://plataforma.bvirtual.com.br/Acervo/Publicacao/180430), 6ª ed., Luger, G. F.  
+ - [Inteligência artificial aplicada: uma abordagem introdutória](https://plataforma.bvirtual.com.br/Acervo/Publicacao/161682), Medeiros, L. F.
+ - [Artificial Intelligence with Python](https://learning.oreilly.com/library/view/artificial-intelligence-with/9781839219535/), 2ª ed, Artasanchez, A., Joshi, P.
+ - [Artificial Intelligence with Python Cookbook](https://learning.oreilly.com/library/view/artificial-intelligence-with/9781789133967/), Auffarth, B.
+ - [Inteligência artificial - IA](https://plataforma.bvirtual.com.br/Acervo/Publicacao/191624), Valdati, A. B.
  - (Practical Explainable AI Using Python: Artificial Intelligence Model Explanations Using Python-based Libraries, Extensions, and Frameworks)[https://learning.oreilly.com/library/view/practical-explainable-ai/9781484271582/], P. Mishra
- - (A Programmer's Guide to Artificial Intelligence)[https://learning.oreilly.com/playlists/496f14b2-4028-47dd-84dd-6313b5f158c7/]
- - (Artificial Intelligence Basics: A Non-Technical Introduction)[https://learning.oreilly.com/library/view/artificial-intelligence-basics/9781484250280/], Taulli, T.
- - (Artificial Intelligence For Dummies)[https://learning.oreilly.com/library/view/artificial-intelligence-for/9781119796763/], 2ª ed., Mueller, J. P., Massaron, L.
- - (Artificial Intelligence and Machine Learning Fundamentals)[https://learning.oreilly.com/videos/artificial-intelligence-and/9781789953671/], Naggy, Z.
- - 
+ - [A Programmer's Guide to Artificial Intelligence](https://learning.oreilly.com/playlists/496f14b2-4028-47dd-84dd-6313b5f158c7/)
+ - [Artificial Intelligence Basics: A Non-Technical Introduction](https://learning.oreilly.com/library/view/artificial-intelligence-basics/9781484250280/), Taulli, T.
+ - [Artificial Intelligence For Dummies](https://learning.oreilly.com/library/view/artificial-intelligence-for/9781119796763/), 2ª ed., Mueller, J. P., Massaron, L.
+ - [Artificial Intelligence and Machine Learning Fundamentals](https://learning.oreilly.com/videos/artificial-intelligence-and/9781789953671/), Naggy, Z.
 
 
 
