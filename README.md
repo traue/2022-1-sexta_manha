@@ -11,7 +11,7 @@
 
 Utilizaremos o Google Classroom para trocarmos mensagens, materiais (apesar de estarem neste Git, também) e realização de atividades.
 
-(Link para a turma no Classroom)[https://classroom.google.com/c/NDY1OTg1Mzg4NzU3?cjc=ngg6ndw]
+[Link para a turma no Classroom](https://classroom.google.com/c/NDY1OTg1Mzg4NzU3?cjc=ngg6ndw)
 
 
 # Atividades
@@ -34,6 +34,6 @@ O professor postará em breve
 Seguem abaixo alguns links e legais (recomendados pelo Prof. e por discentes):
 
  - Quem tiver a oportunidade de jogar: 
-Detroit: Become Human (dica do Lucas) - (Gameplay)[https://www.youtube.com/watch?v=LyBYdYnaX0c]
+Detroit: Become Human (dica do Lucas) - [Gameplay](https://www.youtube.com/watch?v=LyBYdYnaX0c)
  - Quem tiver a oportunidade de jogar: Portal 1
 
