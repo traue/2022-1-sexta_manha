@@ -45,8 +45,10 @@ Seguem abaixo alguns links e legais (recomendados pelo Prof. e por discentes):
 - Quem tiver a oportunidade de jogar: Portal 1 (dica do Kevin)
 - Quem tiver a oportunidade de jogar: Alien Isolation (dica do Kevin)
 - Dicas do Elias:
+  - [https://github.com/NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - Git com os projetos de IA de geração de imagens
   - [https://thishorsedoesnotexist.com/](https://thishorsedoesnotexist.com/) - Site que gera cavalos com IA
   - [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/) - Site que gera rosotos humanos que não existem, com IA
   - [https://thischemicaldoesnotexist.com/](https://thischemicaldoesnotexist.com/) - Site que gera ligações químicas que não existem, com IA
   - [https://thiscatdoesnotexist.com/](https://thiscatdoesnotexist.com/) - Site que gera gatinhos com IA
   - [https://thisartworkdoesnotexist.com/](https://thisartworkdoesnotexist.com/) - Site que gera arte com IA
+- Filme "Ela" [LINK](https://www.adorocinema.com/filmes/filme-206799/) - Dica do Carlos
