@@ -51,8 +51,7 @@ Seguem abaixo alguns links e legais (recomendados pelo Prof. e por discentes):
   - [https://thischemicaldoesnotexist.com/](https://thischemicaldoesnotexist.com/) - Site que gera ligações químicas que não existem, com IA
   - [https://thiscatdoesnotexist.com/](https://thiscatdoesnotexist.com/) - Site que gera gatinhos com IA
   - [https://thisartworkdoesnotexist.com/](https://thisartworkdoesnotexist.com/) - Site que gera arte com IA
-- Filmes interessantes e aderentes à disciplia:
-
+- Filmes interessantes e aderentes à disciplias
   - Filme "Ela" - [LINK](https://www.adorocinema.com/filmes/filme-206799/) - Dica do Carlos
   - Filme "Familia Mitchell" - Dica do Nicolas
   - Matrix (todos) - Dica do Nicolas
