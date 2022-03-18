@@ -6,6 +6,11 @@ def multiplica(a, b, c):
     mult = a * b * c
     return mult
 
+#implementamos pelo Colab...
+def divisao(a, b):
+  div = a / b
+  return div
+
 def ePalindromo(string):
     if(string == string[::-1]):
         return True
