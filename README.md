@@ -60,3 +60,7 @@ Seguem abaixo alguns links e legais (recomendados pelo Prof. e por discentes):
   - Mother/Android - Dics do Leonardo
   - Série: Black Mirror - Dica do Professor
   - Blade Runner - Dica do Nicolas
+  - Cursos de Git e GitHub (gratuitos)
+    - [https://www.dio.me/](https://www.dio.me/) - Dica da Livia
+    - [https://www.udemy.com/course/git-e-github-para-iniciantes/](https://www.udemy.com/course/git-e-github-para-iniciantes/)
+    - [https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/)
