@@ -8,13 +8,17 @@
 
 ## Classrom
 
-Utilizaremos o Google Classroom para trocarmos mensagens, materiais (apesar de estarem neste Git, também) e realização de atividades.
+Utilizaremos o Google Classroom para trocarmos mensagens, materiais (apesar de estarem neste Git, também) e **realização de atividades**.
 
-[Link para a turma no Classroom](https://classroom.google.com/c/NDY1OTg1Mzg4NzU3?cjc=ngg6ndw)
+[LINK PARA O CLASSROOM DA TURMA](https://classroom.google.com/c/NDY1OTg1Mzg4NzU3?cjc=ngg6ndw)
 
 ## Atividades
 
-Neste semestre, todas as atividades serão psotadas no Classroom e obedecerão as regras informadas na "aula 0".
+Neste semestre, todas as atividades serão postadas no Classroom e obedecerão as regras informadas na "aula 0".
+
+Atividades da disciplina:
+
+- **Atividade 1**: De 01.04 até 06.05, 9h
 
 ## Ementa básica da disciplina
 
