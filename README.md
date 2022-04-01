@@ -47,6 +47,7 @@ Lembre-se que com seu e-mail institucional você pode acessar os catálogos disp
 
 Seguem abaixo alguns links e legais (recomendados pelo Prof. e por discentes):
 
+- Livro: Entendendo Algoritmos, Aditya Bhargava (tem em inglês no catálogo da O'Reilly) - Dica da Victória
 - Quem tiver a oportunidade de jogar: Detroit: Become Human (dica do Lucas) - [Gameplay](https://www.youtube.com/watch?v=LyBYdYnaX0c)
 - Quem tiver a oportunidade de jogar: Portal 1 (dica do Kevin)
 - Quem tiver a oportunidade de jogar: Alien Isolation (dica do Kevin)
