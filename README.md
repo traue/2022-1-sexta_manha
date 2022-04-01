@@ -16,6 +16,8 @@ Utilizaremos o Google Classroom para trocarmos mensagens, materiais (apesar de e
 
 Neste semestre, todas as atividades serão postadas no Classroom e obedecerão as regras informadas na "aula 0".
 
+Lembre-se que após a realização da ativdade via forms, é preciso climar em "Submeter" no Classroom.
+
 Atividades da disciplina:
 
 - **Atividade 1**: De 01.04 até 06.05, 9h
