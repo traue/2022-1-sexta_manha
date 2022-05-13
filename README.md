@@ -21,7 +21,7 @@ Lembre-se que após a realização da ativdade via forms, é preciso climar em "
 Atividades da disciplina:
 
 - **Atividade 1**: De 01.04 até 06.05, 9h - Encerrada
-- **Atividade 2**: De 29.04 até 13.05, 9h - Em andamento
+- **Atividade 2**: De 29.04 até 13.05, 9h - Encerrada
 
 ## Ementa básica da disciplina
 
