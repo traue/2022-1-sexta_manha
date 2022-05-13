@@ -22,6 +22,7 @@ Atividades da disciplina:
 
 - **Atividade 1**: De 01.04 até 06.05, 9h - Encerrada
 - **Atividade 2**: De 29.04 até 13.05, 9h - Encerrada
+- **Atividade 3**: De 13.05 até 03.06, 9h - Em andamento
 
 ## Ementa básica da disciplina
 
