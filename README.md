@@ -16,13 +16,20 @@ Utilizaremos o Google Classroom para trocarmos mensagens, materiais (apesar de e
 
 Neste semestre, todas as atividades serão postadas no Classroom e obedecerão as regras informadas na "aula 0".
 
-Lembre-se que após a realização da ativdade via forms, é preciso climar em "Submeter" no Classroom.
+Lembre-se que após a realização da ativdade via forms, é preciso clicar em "Submeter" no Classroom.
 
 Atividades da disciplina:
 
 - **Atividade 1**: De 01.04 até 06.05, 9h - Encerrada
 - **Atividade 2**: De 29.04 até 13.05, 9h - Encerrada
 - **Atividade 3**: De 13.05 até 03.06, 9h - Em andamento
+- **Atividade 4**: De 27.05 até 10.06, 9h - Em andamento
+
+**Atividade de recuperação:** 17.10, em aula
+
+## Avaliação Integrada
+
+A **Avaliação Integrada** da turma de vocês ocorrerá (a princípio) no dia **20/06**, em aula.
 
 ## Ementa básica da disciplina
 
